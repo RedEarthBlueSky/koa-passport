@@ -1,0 +1,19 @@
+{
+  "name": "koa-passport",
+  "version": "1.0.0",
+  "description": "Koa Passport Mongoose Example based on https://github.com/mapmeld/koa-passport-example/blob/mongodb/package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedEarthBlueSky/koa-passport.git"
+  },
+  "author": "Ian Salt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedEarthBlueSky/koa-passport/issues"
+  },
+  "homepage": "https://github.com/RedEarthBlueSky/koa-passport#readme"
+}
